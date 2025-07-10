@@ -9,5 +9,5 @@ print("Your random number is:", random_number)
 if random_number == 5 or random_number == 3:
     print ("You win")
 else:
-    print ("You lose you bigbozo")
+    print ("You lose you big bozo")
     
